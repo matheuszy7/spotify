@@ -1,0 +1,17 @@
+.logo{
+    text-align: center;
+    background-color: black;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    gap:770px;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+}
